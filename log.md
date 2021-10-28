@@ -34,7 +34,11 @@ pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 
 # Bandit Level 5
 
+`cd inhere/`
+`ls -lah`
+`head ./-file07`
 
+koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 
 # Bandit Level 6
 
