@@ -42,8 +42,11 @@ koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 
 # Bandit Level 6
 
-`find . -size 1033c`
-`cat ~/inhere/maybehere07/.file2`
+```
+find . -size 1033c
+cat ~/inhere/maybehere07/.file2
+```
+
 DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 
 # Bandit Level 7
