@@ -95,3 +95,8 @@ cat data.txt | base64 -d
 IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
 
 # Bandit Level 12
+```
+cat data.txt | tr '[A-Za-z]' '[N-ZA-Mn-za-m]'
+```
+
+5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
