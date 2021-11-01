@@ -50,8 +50,48 @@ cat ~/inhere/maybehere07/.file2
 DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 
 # Bandit Level 7
+
+```
+find -user bandit7 -group bandit6 -size 33c
+cat ./var/lib/dpkg/info/bandit7.password
+```
+
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+
+
 # Bandit Level 8
+
+```
+cat data.txt | grep millionth
+```
+
+cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+
 # Bandit Level 9
+
+```
+sort data.txt | uniq -u -c
+```
+
+UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+
 # Bandit Level 10
+
+```
+strings data.txt
+strings data.txt | grep ^=
+strings data.txt | grep ==========
+```
+
+truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+
 # Bandit Level 11
+
+```
+man base64
+cat data.txt | base64 -d
+```
+
+IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+
 # Bandit Level 12
